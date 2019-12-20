@@ -1,5 +1,7 @@
 # Christmas message in Python
 
-![]("img/Screenshot1.png")
+Christ is God and we make part of Coders for God.
 
-![]("img/Screenshot2.png")
+![Screenshot 1]("https://raw.githubusercontent.com/ezequias/christmasmessage/master/img/Screenshot1.png")
+![Screenshot 2]("https://raw.githubusercontent.com/ezequias/christmasmessage/master/img/Screenshot2.png")
+
