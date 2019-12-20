@@ -1,6 +1,5 @@
-# christmasmessage
-Christmas message in Python
+# Christmas message in Python
 
-![Screenshot1]("./../img/Screenshot1.png")
+![]("img/Screenshot1.png")
 
-![Screenshot1]("./../img/Screenshot2.png")
+![]("img/Screenshot2.png")
