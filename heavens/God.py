@@ -1,12 +1,14 @@
 import logos.Person
-import life
-import sys
+import logos.kindness
+import logos.love
+
+import math
 
 class God:
     Omnipotent = True
     Ubiquitous = True
     Omniscient = True
-    Goodness = sys.maxsize
+    Goodness = math.inf
 
 @staticmethod
 def GiveLife(name, birthDate):
@@ -16,4 +18,4 @@ staticmethod
 def GiveGrace(person):
     if (not person._Grace):
         if (person.GodsWish.count() >= God.Goodness):
-            return life.Awake(person)
+            return logos.Awake(person)
